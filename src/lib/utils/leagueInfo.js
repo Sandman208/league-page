@@ -10,7 +10,7 @@ export const homepageText = `
   <p>The George Carlin Fan Club Was Formed In 2022. The League Was Formed With Members Of The Competetive Advantage Fantasy Football Chat. The League Features Managers Of Different Dynasty Experience Levels</p>
   <p>As The Playoffs Approach, The Participants In The First Playoff Are Set But The Seeding Is Entirely Up For Grabs.</p>
   <p>Jose, Nick, Joey, Pinny, Rick And The Agent Of Chaos Himself All Vie For The Top Spot</p>
-  <p>Who Will Win?Who Will Win?</p>
+  <p>Who Will Win?</p>
   `;
 
 /*   STEP 3   */
