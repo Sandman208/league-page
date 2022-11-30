@@ -1,10 +1,10 @@
-<script>
-    import { dues } from '$lib/utils/helper';
+<!-- <script>
+<!--     import { dues } from '$lib/utils/helper';
     let one, oneOne, oneOneOne, oneTwo, oneTwoOne, oneTwoTwo, oneTwoThree, oneTwoFour, oneTwoFive, oneThree;
     let two, twoOne, twoTwo, twoThree;
     let three, threeOne;
-    let four, fourOne, fourTwo;
-    let five, fiveOne;
+    let four, fourOne, fourTwo; -->
+<!--     let five, fiveOne;
     let six, sixOne, sixTwo, sixThree;
     let seven, sevenOne, sevenTwo, sevenThree;
 
@@ -224,9 +224,9 @@
         <p>A total of 7 veto votes are required to veto a trade. Vetoes are only appropriate in instances of collusion or an egregious mismatch of value (i.e. CMC for a backup kicker). Not liking a trade does not warrant a veto.</p>
     </div>
     
+     -->
     
-    
-    <h3 bind:this={oneThree}>1.3 Waiver Wire</h3>
+<!--     <h3 bind:this={oneThree}>1.3 Waiver Wire</h3>
     
     <p>FAAB Waiver wire system. Each team will begin the season with $100. $0 bids are allowed. Bids will process Thursdays and Sundays at 9AM EST.</p>
 
@@ -298,6 +298,6 @@
     <p>In the event that a manager was fined due to late payment, their extra fee will be added to the winner's payout. Similarly, if new managers come into the league and the payout is smaller, the difference will come out of the winner's prize.</p>
     
     <h3 bind:this={sevenThree}>7.3 Raising Dues</h3>
-    <p>A ⅔ majority vote is required in order to raise league dues. In the event that a manager is no longer financially comfortable with the buyin, finding a co-manager to split the cost is reccomended.</p>
+    <p>A ⅔ majority vote is required in order to raise league dues. In the event that a manager is no longer financially comfortable with the buyin, finding a co-manager to split the cost is reccomended.</p> -->
 
-</div>
+</div> -->
